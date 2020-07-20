@@ -1,0 +1,34 @@
+name: agecounter
+description: A new Flutter application that calculates age.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl:
+  rflutter_alert: ^1.0.3
+  int_range: ^1.0.1
+  hijri_picker: ^2.0.0
+  hijri: ^2.0.2
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Lora
+      fonts:
+        - asset: fonts/Lora-Regular.ttf
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
