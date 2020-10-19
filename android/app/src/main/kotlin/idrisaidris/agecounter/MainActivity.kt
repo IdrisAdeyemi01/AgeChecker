@@ -1,4 +1,4 @@
-package idrisaidris.agecounter
+package idrisaidris.hijri_age_converter
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
